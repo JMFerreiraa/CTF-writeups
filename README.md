@@ -8,7 +8,7 @@ This is the writeup for the challenges I was able to complete.
 
 
 ***
-# Table of Contents
+# Challenge List
 
 * [Reversing](#Reversing)
   - [Authenticator](#Authenticator)
