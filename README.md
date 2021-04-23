@@ -1,7 +1,7 @@
 # **Cyber Apocalypse 2021**
 
 <p align="center">
-  <img width=450 src="header.png"
+  <img width=500 src="header.png"
 </p>
 
 This is the writeup for the challenges I was able to complete.
