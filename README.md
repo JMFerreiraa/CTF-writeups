@@ -33,7 +33,7 @@ Open ghydra and analyze the binary.
   <img width=300 src="assets/images/Ghydra.png"
 </p>
 
-Select the main functon on the left and the code C code will show up.
+Select the main functon on the left and the C code will show up.
 
 After analyzing the code we can get the ID pretty easily.
 ID = 11337
