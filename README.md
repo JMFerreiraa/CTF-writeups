@@ -30,7 +30,7 @@ The **easy** one (Ghydra):
 Open ghydra and analyze the binary.
 
 <p align="center">
-  <img width=300 src="assets/images/Ghydra.png"
+  <img width=500 src="assets/images/Ghydra.png"
 </p>
 
 Select the main functon on the left and the C code will show up.
