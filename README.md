@@ -1,7 +1,7 @@
 # **Cyber Apocalypse 2021**
 
 <p align="center">
-  <img width=500 src="header.png"
+  <img width=1000 src="header.png"
 </p>
 
 This is the writeup for the challenges I was able to complete.
@@ -30,7 +30,7 @@ The **easy** one (Ghydra):
 Open ghydra and analyze the binary.
 
 <p align="center">
-  <img width=500 src="assets/images/Ghydra.png"
+  <img width=800 src="assets/images/Ghydra.png"
 </p>
 
 Select the main functon on the left and the C code will show up.
