@@ -20,9 +20,8 @@ This is the writeup for the challenges I was able to complete.
 
 ***
 
-
 <p align="center">
-  <embed src="CTF-Cyber-Apocalypse-Ferreira-Certificate.pdf" width="800px" height="2100px" />
+  <img width=500 src="assets/images/CTF-Cyber-Apocalypse-Ferreira-Certificate-1.png"
 </p>
 
 # Reversing
