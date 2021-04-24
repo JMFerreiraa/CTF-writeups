@@ -16,15 +16,14 @@ This is the writeup for the challenges I was able to complete.
   - [Backdoor](#Backdoor)
 * [Forensics](#Forensics)
   - [Oldest trick in the book](#Oldest_Trick)
+  
 
+***
 
 
 <p align="center">
   <embed src="CTF-Cyber-Apocalypse-Ferreira-Certificate.pdf" width="800px" height="2100px" />
 </p>
-  
-
-***
 
 # Reversing
 
