@@ -20,7 +20,7 @@ This is the writeup for the challenges I was able to complete.
 
 
 <p align="center">
-  <img width=1200 src="CTF-Cyber-Apocalypse-Ferreira-Certificate.pdf"
+  <embed src="CTF-Cyber-Apocalypse-Ferreira-Certificate.pdf" width="800px" height="2100px" />
 </p>
   
 
