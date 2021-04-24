@@ -21,7 +21,7 @@ This is the writeup for the challenges I was able to complete.
 ***
 
 <p align="center">
-  <img width=500 src="assets/images/CTF-Cyber-Apocalypse-Ferreira-Certificate-1.png"
+  <img width=500 src="CTF-Cyber-Apocalypse-Ferreira-Certificate-1.png"
 </p>
 
 # Reversing
