@@ -15,7 +15,7 @@ This is the writeup for the challenges I was able to complete.
   - [Passphrase](#Passphrase)
   - [Backdoor](#Backdoor)
 * [Forensics](#Forensics)
-  - [Oldest trick in the book](#Oldest trick in the book)
+  - [Oldest trick in the book](#Oldest-trick-in-the-book)
   
 
 ***
